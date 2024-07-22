@@ -32,7 +32,7 @@ Requisições para a API devem seguir os padrões:
 |---|---|
 | `GET` | Retorna informações de um ou mais registros. |
 | `POST` | Utilizado para criar um novo registro. |
-| `DELETE` | Remove um registro do sistema. |
+| `PATCH` | Atualiza um registro do sistema. |
 
 ## **Respostas**
 
